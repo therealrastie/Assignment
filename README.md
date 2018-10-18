@@ -1,2 +1,1 @@
-# GWUBOOTCAMP
-Chain of assignments
+Projects
